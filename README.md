@@ -53,7 +53,7 @@
 
 ## 🚀 Featured Projects
 
-### 🔐 Secure Team Workspace (https://github.com/RehenumaOP/secure-workspace)
+### 🔐[Secure Team Workspace] (https://github.com/RehenumaOP/secure-workspace)
 
 A secure collaboration platform with authentication, team invitations, file sharing and workspace management.
 
