@@ -59,7 +59,7 @@ A secure collaboration platform with authentication, team invitations, file shar
 
 **Tech:** React • Python • FastAPI • MongoDB
 
-### 🧠 Mental Health Support Platform
+### 🧠 [Mental Health Support Platform] (https://github.com/RehenumaOP/mindcare)
 
 A web-based platform designed to provide mental health support and helpful resources.
 
