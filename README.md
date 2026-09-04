@@ -65,7 +65,7 @@ A web-based platform designed to provide mental health support and helpful resou
 
 **Tech:** React • TypeScript
 
-### 👁️ Eye Disease Detection
+### 👁️ [Eye Disease Detection] (https://github.com/RehenumaOP/Eye-Disease-Detection)
 
 An AI/ML project for detecting eye diseases from medical images using deep learning.
 
